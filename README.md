@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nairen1980
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Jack @nairen1980
+- 👀 I’m interested in leaning how to code myself
+- 🌱 I’m currently learning JAVA..
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me  nrj311@hotmail.com 
 
 <!---
 nairen1980/nairen1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
